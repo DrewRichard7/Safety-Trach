@@ -1,0 +1,11 @@
+body {
+    background: #FF8200;
+    color: #FFFFFF;
+}
+h1,
+h3 {
+  text-align: center;
+}
+/* Note: you have used colour names here, 
+but you could also create colours using hex 
+codes like #ff0000 (red). */
